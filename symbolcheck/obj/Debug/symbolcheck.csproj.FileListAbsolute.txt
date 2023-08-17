@@ -1,0 +1,8 @@
+C:\Users\yugen\Documents\symbolcheck\symbolcheck\bin\Debug\symbolcheck.exe.config
+C:\Users\yugen\Documents\symbolcheck\symbolcheck\bin\Debug\symbolcheck.exe
+C:\Users\yugen\Documents\symbolcheck\symbolcheck\bin\Debug\symbolcheck.pdb
+C:\Users\yugen\Documents\symbolcheck\symbolcheck\obj\Debug\symbolcheck.csproj.AssemblyReference.cache
+C:\Users\yugen\Documents\symbolcheck\symbolcheck\obj\Debug\symbolcheck.csproj.SuggestedBindingRedirects.cache
+C:\Users\yugen\Documents\symbolcheck\symbolcheck\obj\Debug\symbolcheck.csproj.CoreCompileInputs.cache
+C:\Users\yugen\Documents\symbolcheck\symbolcheck\obj\Debug\symbolcheck.exe
+C:\Users\yugen\Documents\symbolcheck\symbolcheck\obj\Debug\symbolcheck.pdb
